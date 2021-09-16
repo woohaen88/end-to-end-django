@@ -1,2 +1,8 @@
 db.sqlite3
 config/__pycache__
+blog/__pycache__
+single_pages/__pycache__
+dbtable.numbers
+blog/migrations/__pycache__
+single_pages/migrations/__pycache__
+blog/migrations
